@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "605919037508",
+    "project_id": "sw-architecture-and-design-392",
+    "storage_bucket": "sw-architecture-and-design-392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605919037508:android:0b1091aa945ffc391ed411",
+        "android_client_info": {
+          "package_name": "com.example.apart_rent.apart_rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605919037508-ujr80fvdslq3rjssm4kuoj1vrjf6dank.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apart_rent.apart_rent",
+            "certificate_hash": "ed86dbefd3fc6891fe947a3f63fa7d31ac1b9fae"
+          }
+        },
+        {
+          "client_id": "605919037508-g1653dj3eps1hu5p19qi3re1b6ifkbta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2O8Pa0ZlumprJS4i2mXtKyvMESuXmtcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605919037508-g1653dj3eps1hu5p19qi3re1b6ifkbta.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605919037508-t0anvs989g6qkd3oc5gj8srqe9fc735n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.apartrent.apartRent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
